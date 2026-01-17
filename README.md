@@ -44,15 +44,15 @@ Every image earns its place.
 Creative, experimental, and non-realistic visuals.  
 Perfect for artistic setups and bold desktops.
 
-```
+```ABSTRACT
 
-Abstract/
-Figures/
-Characters/
-HandsEffect/
-InterestingOne/
-Groov/
-NaturalEffect/
+1. Abstract/
+2. Figures/
+3. Characters/
+4. HandsEffect/
+5. InterestingOne/
+6. Groov/
+7. NaturalEffect/
 
 ```
 
@@ -68,14 +68,14 @@ NaturalEffect/
 Calm, immersive, and real-world environments.  
 Ideal for clean, distraction-free setups.
 
-```
+```NATURE-ARC
 
-Forest/
-Landscapes/
-Mountain/
-Sky/
-StormSea/
-Waves/
+1. Forest/
+2. Landscapes/
+3. Mountain/
+4. Sky/
+5. StormSea/
+6. Waves/
 
 ```
 
@@ -91,12 +91,12 @@ Waves/
 Cosmic visuals and science-inspired themes.  
 Built for dark modes and futuristic desktops.
 
-```
+```SPACE
 
-Astronaut/
-Blackhole/
-Space/
-JetPlane/
+1. Astronaut/
+2. Blackhole/
+3. Space/
+4. JetPlane/
 
 ```
 
@@ -111,13 +111,13 @@ JetPlane/
 
 Man-made environments, machines, and tech-inspired visuals.
 
-```
+```URBAN
 
-CityEscape/
-Cars/
-Linux/
-Nord/
-WallHaven/
+1. CityEscape/
+2. Cars/
+3. Linux/
+4. Nord/
+5. WallHaven/
 
 ```
 
@@ -132,9 +132,9 @@ WallHaven/
 
 Organic and life-focused visuals.
 
-```
+```NATURE
 
-Animal/
+1. Animal/
 
 ```
 
@@ -149,10 +149,10 @@ Animal/
 
 Soft tones, cozy vibes, and mood-based visuals.
 
-```
+```MOOD
 
-Cappuccin/
-FullChili/
+1. Cappuccin/
+2. FullChili/
 
 ```
 
@@ -167,9 +167,9 @@ FullChili/
 
 Personally captured or uniquely curated visuals.
 
-```
+```CAPTURE
 
-MyCapture/
+1. MyCapture/
 
 ```
 
@@ -184,9 +184,9 @@ MyCapture/
 
 Dynamic motion wallpapers and animated visuals.
 
-```
+```GIF
 
-GifWallpapers/
+1. GifWallpapers/
 
 ```
 
