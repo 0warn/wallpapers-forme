@@ -37,6 +37,13 @@ This repository exists to:
 Every folder has a purpose.  
 Every image earns its place.
 
+--- 
+
+### Installation.......
+For installation just copy and past this command...
+```BASH
+    git clone https://github.com/CYBER-4RMY/wallpapers-forme.git
+```
 ---
 
 ## 🎨 Abstract • Art • Visual Concepts
