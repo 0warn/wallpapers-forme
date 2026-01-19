@@ -9,6 +9,12 @@
 It's written using the latest version of Qt, which is **Qt6**. Its key features include **virtual keyboard support** and an **installation script**. This theme also support **animated wallpapers**. You can easily change its appearance by choosing another of the ten pre-made themes or creating your own. Each of these themes was created by modifying just one file - **[config](./Themes/astronaut.conf)**.
 
 All themes were created for 1080p. However, they should work well in other resolutions.
+## Installation.....
+
+For installation just copy and past this command...
+```BASH
+    git clone https://github.com/CYBER-4RMY/wallpapers-forme.git
+```
 
 ## Preview of all themes
 
