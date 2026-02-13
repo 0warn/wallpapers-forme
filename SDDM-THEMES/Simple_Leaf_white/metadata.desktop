@@ -1,0 +1,15 @@
+[SddmGreeterTheme]
+Name=Simple_leaf_white
+Description=sddm-simple-leaf-white
+Author=0warn
+Website=https://github.com/0warn/wallpapers-forme
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.3
+ConfigFile=Themes/simple-leaf.conf
+Screenshot=Previews/simple-leaf.jpeg
+MainScript=Main.qml
+TranslationsDirectory=translations
+Theme-Id=sddm-simple-leaf-white
+Theme-API=2.0
+QtVersion=6
