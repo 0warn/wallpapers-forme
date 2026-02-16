@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Garuda Mokka
+Description=Mokka-SDDM Theme For Plasma 6 based on Magna-SDDM-6
+Author=Inspired by l4k1 artwork
+Copyright=(c) 2022, l4k1
+License=GPLv. 3+
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=
+Theme-Id=Mokka
+Theme-API=2.0
+QtVersion=6
